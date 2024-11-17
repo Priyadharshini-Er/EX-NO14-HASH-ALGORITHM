@@ -79,7 +79,7 @@ int main() {
 }
 ```
 ## Output:
-![Screenshot 2024-11-11 211212](https://github.com/user-attachments/assets/5831ba85-45f6-47cb-b82f-89a18b524bc3)
+![image](https://github.com/user-attachments/assets/f2e3a365-0423-4785-8044-74a0dc27d216)
 
 ## Result:
 The program is executed successfully.
